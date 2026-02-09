@@ -15,7 +15,6 @@ The project evaluates 5 different option contracts across multiple configuration
 |------|-------------|
 | `FINE3300_Group_8_Group_Project.ipynb` | Main Jupyter notebook with all code, outputs, and analysis |
 | `FINE3300_Group_8_Group_Project.pdf` | PDF export of the completed notebook |
-| `FINE3300_Group_8_Group_Project_ERROR.ipynb` | Notebook variant with error analysis |
 
 ## Methodology
 
